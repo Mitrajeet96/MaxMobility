@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|c:\\users\\roop\\source\\repos\\maxmobility\\maxmobility\\controllers\\emailuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|solutionrelative:maxmobility\\controllers\\emailuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|c:\\users\\roop\\source\\repos\\maxmobility\\maxmobility\\views\\emailupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|solutionrelative:maxmobility\\views\\emailupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|c:\\users\\roop\\source\\repos\\maxmobility\\maxmobility\\models\\emailresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|solutionrelative:maxmobility\\models\\emailresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|c:\\users\\roop\\source\\repos\\maxmobility\\maxmobility\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|solutionrelative:maxmobility\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|c:\\users\\roop\\source\\repos\\maxmobility\\maxmobility\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1995EB12-3F85-4657-BE13-B54C4B866ACF}|MaxMobility\\MaxMobility.csproj|solutionrelative:maxmobility\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailResult.cs",
+              "DocumentMoniker": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Models\\EmailResult.cs",
+              "RelativeDocumentMoniker": "MaxMobility\\Models\\EmailResult.cs",
+              "ToolTip": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Models\\EmailResult.cs",
+              "RelativeToolTip": "MaxMobility\\Models\\EmailResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:37:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Web.config",
+              "RelativeDocumentMoniker": "MaxMobility\\Web.config",
+              "ToolTip": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Web.config",
+              "RelativeToolTip": "MaxMobility\\Web.config",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-23T16:15:51.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Views\\EmailUpload\\Index.cshtml",
+              "RelativeDocumentMoniker": "MaxMobility\\Views\\EmailUpload\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Views\\EmailUpload\\Index.cshtml",
+              "RelativeToolTip": "MaxMobility\\Views\\EmailUpload\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T15:31:30.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Controllers\\EmailUploadController.cs",
+              "RelativeDocumentMoniker": "MaxMobility\\Controllers\\EmailUploadController.cs",
+              "ToolTip": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Controllers\\EmailUploadController.cs",
+              "RelativeToolTip": "MaxMobility\\Controllers\\EmailUploadController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:24:51.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Models\\EmailModel.cs",
+              "RelativeDocumentMoniker": "MaxMobility\\Models\\EmailModel.cs",
+              "ToolTip": "C:\\Users\\Roop\\source\\repos\\MaxMobility\\MaxMobility\\Models\\EmailModel.cs",
+              "RelativeToolTip": "MaxMobility\\Models\\EmailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:19:05.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

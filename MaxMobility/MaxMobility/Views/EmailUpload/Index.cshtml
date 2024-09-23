@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Email Upload";
+}
+
+<h2>Email Upload</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@using (Html.BeginForm("UploadFile", "EmailUpload", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>
+        <label>Select a .txt file:</label>
+        <input type="file" name="file" accept=".txt" required />
+    </div>
+<br />
+<button type="submit" class="btn btn-primary">Upload</button>
+}
+@if (ViewBag.TotalEmails != null)
+{
+    <div>
+        <h3>Total Emails in File: @ViewBag.TotalEmails</h3>
+        <h3>Unique Emails Uploaded: @ViewBag.UniqueEmails</h3>
+        <h3>Unique Emails Uploaded To DB: @ViewBag.InsertedInDB</h3>
+        <h3>Unique Emails Duplicate In DB: @ViewBag.DuplicateInDB</h3>
+
+    </div>
+}
